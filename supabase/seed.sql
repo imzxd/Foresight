@@ -1,0 +1,2 @@
+-- Intentionally empty. Realistic fictional data is loaded with `pnpm seed:demo` (see docs/setup.md),
+-- because invoices must belong to a real organization created through the app.

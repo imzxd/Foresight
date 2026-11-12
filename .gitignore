@@ -1,0 +1,20 @@
+node_modules
+.next
+out
+coverage
+playwright-report
+test-results
+.env
+.env.*
+!.env.example
+*.log
+.DS_Store
+*.tsbuildinfo
+next-env.d.ts
+.vercel
+.inngest
+# Never commit real customer documents
+/private-invoices
+tests/fixtures/private
+node_modules
+/test-results
